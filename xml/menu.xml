@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<platos>
+    <plato tipo='entrante'>
+        <nombre>Ensalada césar</nombre>
+        <precio>3.95</precio>
+        <descripcion>Ensalada con salsa Worcestershire</descripcion>
+        <calorias>188Kcal</calorias>
+        <caracteristicas>
+            <caracteristica>sin-gluten</caracteristica>
+            <caracteristica>carne</caracteristica>
+        </caracteristicas>
+    </plato>
+
+    <plato tipo='entrante'>
+        <nombre>Empanadillas de atún</nombre>
+        <precio>2.95</precio>
+        <descripcion>Empanadillas rellenas de atún</descripcion>
+        <calorias>290Kcal</calorias>
+        <caracteristicas>
+            <caracteristica>pescado</caracteristica>
+        </caracteristicas>
+    </plato>
+
+    <plato tipo='entrante'>
+        <nombre>Pinchos variados</nombre>
+        <precio>4.95</precio>
+        <descripcion>Pinchos de pescado, marisco, &#xA;carne y verduras cocidas</descripcion>
+        <calorias>170Kcal</calorias>
+        <caracteristicas>
+            <caracteristica>pescado</caracteristica>
+            <caracteristica>carne</caracteristica>
+        </caracteristicas>
+    </plato>
+
+    <plato tipo='entrante'>
+        <nombre>Croquetas de Jamón</nombre>
+        <precio>2.95</precio>
+        <descripcion>Croquetas rellenas de jamón ibérico</descripcion>
+        <calorias>149Kcal</calorias>
+        <caracteristicas>
+            <caracteristica>carne</caracteristica>
+        </caracteristicas>
+
+    </plato>
+    
+    <plato tipo='primero'>
+        <nombre>Gazpacho</nombre>
+        <precio>4.95</precio>
+        <descripcion>Gazpacho de tomate con verduras</descripcion>
+        <calorias>19Kcal</calorias>
+        <caracteristicas>
+            <caracteristica>vegano</caracteristica>
+        </caracteristicas>
+    </plato>
+
+    <plato tipo='primero'>
+        <nombre>Ensaladilla rusa</nombre>
+        <precio>5.95</precio>
+        <descripcion>Ensaladilla con verduras, huevo y pescado</descripcion>
+        <calorias>550Kcal</calorias>
+        <caracteristicas>
+            <caracteristica>pescado</caracteristica>
+            <caracteristica>sin-gluten</caracteristica>
+        </caracteristicas>
+    </plato>
+
+    <plato tipo='primero'>
+        <nombre>Ensalada mixta</nombre>
+        <precio>4.95</precio>
+        <descripcion>Ensalada con atún, tomate y vegetales</descripcion>
+        <calorias>280Kcal</calorias>
+        <caracteristicas>
+            <caracteristica>pescado</caracteristica>
+            <caracteristica>sin-gluten</caracteristica>
+        </caracteristicas>
+    </plato>
+
+    <plato tipo='primero'>
+        <nombre>Arroz a la cubana</nombre>
+        <precio>5.95</precio>
+        <descripcion>Arroz con salsa de tomate</descripcion>
+        <calorias>396Kcal</calorias>
+        <caracteristicas>
+            <caracteristica></caracteristica>
+        </caracteristicas>
+    </plato>
+
+    <plato tipo='segundo'>
+        <nombre>Entrecot</nombre>
+        <precio>7.95</precio>
+        <descripcion>Ensalada con salsa Worcestershire</descripcion>
+        <calorias>165Kcal</calorias>
+        <caracteristicas>
+            <caracteristica>carne</caracteristica>
+            <caracteristica>sin-gluten</caracteristica>
+        </caracteristicas>
+    </plato>
+
+    <plato tipo='segundo'>
+        <nombre>Alitas</nombre>
+        <precio>2.95</precio>
+        <descripcion>Alitas de pollo picantes al horno</descripcion>
+        <calorias>400Kcal</calorias>
+        <caracteristicas>
+            <caracteristica>picante</caracteristica>
+            <caracteristica>carne</caracteristica>
+            <caracteristica>sin-gluten</caracteristica>
+        </caracteristicas>
+    </plato>
+
+    <plato tipo='segundo'>
+        <nombre>Dorada a la sal</nombre>
+        <precio>4.95</precio>
+        <descripcion>Dorada a la sal al horno con limon</descripcion>
+        <calorias>230Kcal</calorias>
+        <caracteristicas>
+            <caracteristica>pescado</caracteristica>
+            <caracteristica>sin-gluten</caracteristica>
+        </caracteristicas>
+    </plato>
+    
+    <plato tipo='segundo'>
+        <nombre>Bistec</nombre>
+        <precio>6.95</precio>
+        <descripcion>Bistec de ternera a la plancha</descripcion>
+        <calorias>172Kcal</calorias>
+        <caracteristicas>
+            <caracteristica>carne</caracteristica>
+            <caracteristica>sin-gluten</caracteristica>
+        </caracteristicas>
+    </plato>
+
+    <plato tipo='postre'>
+        <nombre>Tarta de zanahoria</nombre>
+        <precio>3.50</precio>
+        <descripcion>Tarta helada de zanahoria</descripcion>
+        <calorias>415Kcal</calorias>
+        <caracteristicas>
+            <caracteristica>vegano</caracteristica>
+        </caracteristicas>
+    </plato>
+
+    <plato tipo='postre'>
+        <nombre>Brownie</nombre>
+        <precio>2.50</precio>
+        <descripcion>Brownie de chocolate</descripcion>
+        <calorias>466Kcal</calorias>
+        <caracteristicas>
+            <caracteristica>vegano</caracteristica>
+        </caracteristicas>
+    </plato>
+
+    <plato tipo='postre'>
+        <nombre>Mochi</nombre>
+        <precio>1.50</precio>
+        <descripcion>Mochi de judías rojas</descripcion>
+        <calorias>188Kcal</calorias>
+        <caracteristicas>
+            <caracteristica>vegano</caracteristica>
+        </caracteristicas>
+    </plato>
+
+    <plato tipo='postre'>
+        <nombre>Tiramisú</nombre>
+        <precio>2.50</precio>
+        <descripcion>Tiramisú con café</descripcion>
+        <calorias>492Kcal</calorias>
+        <caracteristicas>
+            <caracteristica>vegano</caracteristica>
+        </caracteristicas>
+    </plato>
+
+    <plato tipo='bebida'>
+        <nombre>Agua</nombre>
+        <precio>1.20</precio>
+        <descripcion>Agua de 1L</descripcion>
+    </plato>
+
+    <plato tipo='bebida'>
+        <nombre>Nestea</nombre>
+        <precio>1.40</precio>
+        <descripcion>Nestea de 500ml</descripcion>
+    </plato>
+
+    <plato tipo='bebida'>
+        <nombre>Fanta de naranja</nombre>
+        <precio>1.40</precio>
+        <descripcion>Fanta de naranja de 500ml</descripcion>
+    </plato>
+
+    <plato tipo='bebida'>
+        <nombre>Cerveza sin alcohol</nombre>
+        <precio>1.80</precio>
+        <descripcion>Cerveza sin alcohol de 500ml</descripcion>
+    </plato>
+</platos>
